@@ -75,12 +75,12 @@ http://phonetx.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPTEwNzYyYjIyODFmYTUwY2U0OTM1
 
 
 #EXTINF:-1 ,深圳卫视
-http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/szwshd/4000000/mnf.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
 #EXTINF:-1 ,湖北卫视
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hbwshd/4000000/mnf.m3u8
 #EXTINF:-1 ,广东卫视
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/gdwshd/4000000/mnf.m3u8
 #EXTINF:-1 ,安徽卫视
-http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ahwshd/4000000/mnf.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
 #EXTINF:-1 ,东南卫视
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dnwshd/4000000/mnf.m3u8
