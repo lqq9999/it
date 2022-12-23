@@ -8,7 +8,7 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 ,Chanel V
 http://iptv.tvfix.org/hls/channelv.m3u8
 #EXTINF:-1 ,星空卫视
-http://218.202.220.2:5000/nn_live.ts?id=STARTV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
 
 #EXTINF:-1 ,CCTV1
 http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
