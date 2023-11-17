@@ -2,79 +2,79 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-연합뉴스TV | 韩国 |  |
+#EXTINF:-1 ,연합뉴스TV | 韩国 |  |
 https://live.metshop.top/youtube/0GN8t2u3flc/live
 
-CCTV4 | China |  |
+#EXTINF:-1 ,CCTV4 | China |  |
 https://live.metshop.top/youtube/QTz6avPD4Ns
-4K | 4k |  |
+#EXTINF:-1 ,4K | 4k1
 https://live.metshop.top/youtube/rw7bxTqkYYs
 
-4K | 4k |  |
+#EXTINF:-1 ,4K | 4k2
 https://live.metshop.top/youtube/tAuXNZ5TSlA
 
-空间站1 | 世界 |  |
+#EXTINF:-1 ,空间站1 | 世界 |  |
 https://live.metshop.top/youtube/mBzrxNHF2u8
 
-空间站2 | 世界 |  |
+#EXTINF:-1 ,空间站2 | 世界 |  |
 https://live.metshop.top/youtube/ddZu_1Z3BAc
 
-中天新闻 |台湾||
+#EXTINF:-1 ,中天新闻 |台湾||
 https://live.metshop.top/youtube/_QbRXRnHMVY
 
-TVBS |台湾||
+#EXTINF:-1 ,TVBS |台湾||
 https://live.metshop.top/youtube/2mCSYvcfhtc
 
-台視新聞台 |台湾||
+#EXTINF:-1 ,台視新聞台 |台湾||
 https://live.metshop.top/youtube/xL0ch83RAK8
 
-三立海外直播 |台湾||
+#EXTINF:-1 ,三立海外直播 |台湾||
 https://live.metshop.top/youtube/FoBfXvlOR6I
 
-中視新聞 |台湾||
+#EXTINF:-1 ,中視新聞 |台湾||
 https://live.metshop.top/youtube/TCnaIE_SAtM
 
-寰宇新聞台 |台湾||
+#EXTINF:-1 ,寰宇新聞台 |台湾||
 https://live.metshop.top/youtube/B7Zp3d6xXWw
 
-国家地理 |世界||
+#EXTINF:-1 ,国家地理 |世界||
 https://live.metshop.top/youtube/OQz-efDv01k
 
-YTN | 韩国 |  |
+#EXTINF:-1 ,YTN | 韩国 |  |
 https://live.metshop.top/youtube/vEO6wO0QsX8
 
-KBS | 韩国 |  |
+#EXTINF:-1 ,KBS | 韩国 |  |
 https://live.metshop.top/youtube/1WhB1z0bWGs
 
-熊猫直播  |世界||
+#EXTINF:-1 ,熊猫直播  |世界||
 https://live.metshop.top/youtube/gNGolYPBy2E
 
-ABC  |英语||
+#EXTINF:-1 ,ABC  |英语||
 https://live.metshop.top/youtube/w_Ma8oQLmSM
 
-凤凰卫视HD  |香港||
+#EXTINF:-1 ,凤凰卫视HD  |香港||
 https://live.metshop.top/youtube/xyyvJ_KgTlg
 
-热门音乐  |香港||
+#EXTINF:-1 ,热门音乐  |香港||
 https://live.metshop.top/youtube/wrYF0HX7Kzc
 
-欧美音乐  |香港||
+#EXTINF:-1 ,欧美音乐  |香港||
 https://live.metshop.top/youtube/36YnV9STBqc
 
-欧美音乐1  |香港||
+#EXTINF:-1 ,欧美音乐1  |香港||
 https://live.metshop.top/youtube/oVu-aAMV9c8
 
-三立新闻 |台湾||
+#EXTINF:-1 ,三立新闻 |台湾||
 https://live.metshop.top/youtube/CKjSm5ZeehE
 
-東森新聞  |台湾||
+#EXTINF:-1 ,東森新聞  |台湾||
 https://live.metshop.top/youtube/R2iMq5LKXco
 
-東森財經新聞  |台湾||
+#EXTINF:-1 ,東森財經新聞  |台湾||
 https://live.metshop.top/youtube/WHEPzbFA3hw
 
-机场免费节点 |||
+#EXTINF:-1 ,机场免费节点 |||
 https://live.metshop.top/youtube/0LFElpy53aU
 
-東森娛樂台live |
+#EXTINF:-1 ,東森娛樂台live
 https://live.metshop.top/youtube/AH053CqyXWg
